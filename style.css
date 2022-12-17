@@ -1,0 +1,14 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.jm p{
+	font-size: 30px;
+	color: red;
+}
+.jm-img{
+	width: 400px;
+	height: 400px;
+	background-image: url("crash1.jpg");
+	background-size: cover;
+}
